@@ -1,0 +1,3 @@
+Hola ${nombre}, bienvenido a ${empresa}.
+
+Tu rol es: ${rol} y tu departamento es: ${departamento}
